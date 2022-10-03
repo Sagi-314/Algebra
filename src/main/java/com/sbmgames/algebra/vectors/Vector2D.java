@@ -1,4 +1,4 @@
-package com.sbmgames.algebraaa.vectors;
+package com.sbmgames.algebra.vectors;
 
 /**
  * this Vector2D class represents a line between two points.

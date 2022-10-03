@@ -1,7 +1,7 @@
-package com.sbmgames.algebra.rects;
+package com.sbmgames.algebra.shapes.rects;
 
-import com.sbmgames.algebraaa.vectors.Vector;
-import com.sbmgames.algebraaa.vectors.Vector2D;
+import com.sbmgames.algebra.vectors.Vector;
+import com.sbmgames.algebra.vectors.Vector2D;
 
 public class RotatableRect extends Rect
 {

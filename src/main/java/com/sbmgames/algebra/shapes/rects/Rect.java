@@ -1,6 +1,6 @@
-package com.sbmgames.algebra.rects;
+package com.sbmgames.algebra.shapes.rects;
 
-import com.sbmgames.algebraaa.vectors.Vector;
+import com.sbmgames.algebra.vectors.Vector;
 
 public class Rect
 {

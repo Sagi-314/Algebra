@@ -1,4 +1,4 @@
-package com.sbmgames.algebraaa.vectors;
+package com.sbmgames.algebra.vectors;
 
 /**
  * this Vector class represents an immutable point.
