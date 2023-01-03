@@ -14,9 +14,9 @@ public class Vector
         this.y = y;
     }
 
-    public void distance(Vector other)
+    public double distance(Vector other)
     {
-        distance(this, other);
+        return distance(this, other);
     }
 
     public static double distance(Vector vector1, Vector vector2)
